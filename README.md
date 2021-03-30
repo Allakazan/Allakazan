@@ -4,13 +4,10 @@ I'm a game / web developer living in São Paulo, currently working as a Full Sta
 
 <br />
 
-<img align="left" width="435px" height="203px" alt="Allakazan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Allakazan&show_icons=true&count_private=true&theme=tokyonight&hide=contribs" /><br />
+<img align="left" width="435px" height="233px" alt="Allakazan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Allakazan&show_icons=true&count_private=true&theme=tokyonight&hide=contribs" /><br />
 
 <img align="right" alt="Allakazan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allakazan&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
 
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -56,4 +53,4 @@ I'm a game / web developer living in São Paulo, currently working as a Full Sta
 
 <br />
 <br />
-<img  alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+<img  alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
