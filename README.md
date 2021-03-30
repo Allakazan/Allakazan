@@ -13,6 +13,10 @@ I'm a game / web developer living in São Paulo, currently working as a Full Sta
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
 ### Languages and Tools:
 
