@@ -6,9 +6,9 @@ I'm a game / web developer living in São Paulo, currently working as a Full Sta
 
 [//]: # (https://github-readme-stats.vercel.app)
 
-<img align="left" width="435px" height="233px" alt="Allakazan's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api?username=Allakazan&show_icons=true&count_private=true&theme=tokyonight&hide=contribs" /><br />
+<img align="left" width="435px" height="233px" alt="Allakazan's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api?username=Allakazan&show_icons=true&count_private=true&theme=tokyonight" /><br />
 
-<img align="right" alt="Allakazan's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api/top-langs/?username=Allakazan&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="right" alt="Allakazan's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api/top-langs/?username=Allakazan&layout=compact&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=html,PHP,ShaderLab,c%23&exclude_repo=allakazan.github.io,ab1website,o3pusher" />
 
 <br />
 <br />
