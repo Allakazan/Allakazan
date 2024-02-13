@@ -1,6 +1,6 @@
-### Hi there, I'm Bruno! :alien:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=21&pause=1000&color=AA82D9&random=false&width=435&lines=Hi+there%2C+I'm+Bruno+!+%F0%9F%91%BD+;I+work+as+a+Software+Engineer+in+Brazil+%F0%9F%87%A7%F0%9F%87%B7;You+can+find+my+contact+info+below+%E2%AC%87%EF%B8%8F)](https://git.io/typing-svg)
 
-I'm a game / web developer living in São Paulo, currently working as a Full Stack Developer.
+I'm Bruno - i'm a Software Engineer and 3D Artist. I'm interested in software development, game programming and 3D modeling. I work on random projects on my free time, a lot involving WebGL technologies. 
 
 [//]: # (https://github-readme-stats.vercel.app)
 
@@ -31,7 +31,6 @@ I'm a game / web developer living in São Paulo, currently working as a Full Sta
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,docker&theme=dark&perline=8)](https://skillicons.dev)
 
 <br />
-<br />
 
 ### Connect with me:
 
@@ -41,6 +40,7 @@ I'm a game / web developer living in São Paulo, currently working as a Full Sta
 
 
 
+<br />
 <br />
 <br />
 
