@@ -17,17 +17,6 @@ I'm Bruno - i'm a Software Engineer and 3D Artist. I'm interested in software de
   </div>
 </div>
 
-<div>
-
-</div>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 
