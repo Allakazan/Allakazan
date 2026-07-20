@@ -11,10 +11,6 @@ I'm Bruno - i'm a Software Engineer and 3D Artist. I'm interested in software de
     <img align="top" alt="Allakazan's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api?username=Allakazan&show_icons=true&count_private=true&theme=tokyonight" />
     <img alt="Allakazan's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api/top-langs/?username=Allakazan&layout=compact&show_icons=true&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,EJS,PHP,ShaderLab,c%23&exclude_repo=allakazan.github.io,ab1website,o3pusher" />
   </div>
-  <div style="display: flex; flex-direction: column; align-items: flex-start;">
-      <img align="top" width="467px" alt="Allakazan's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api/wakatime/?username=allakazan&theme=tokyonight&langs_count=5&custom_title=WakaTime%20Annual%20Stats&hide_title=true&hide=Blender" />
-      <img width="300"/>
-  </div>
 </div>
 
 <br />
